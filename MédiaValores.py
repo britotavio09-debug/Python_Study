@@ -14,4 +14,3 @@ media = soma / qtd
 print("\n Total da Soma: ",soma)
 print("\n Quantidade de valores digitados",qtd)
 print("\n Média dos Valores",media)
-#fim do code fodão
